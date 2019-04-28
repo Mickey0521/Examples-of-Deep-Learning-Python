@@ -72,37 +72,37 @@ else:
     print('Using real-time data augmentation.')
     # This will do preprocessing and realtime data augmentation:
     datagen = ImageDataGenerator(
-		# set input mean to 0 over the dataset
+	# set input mean to 0 over the dataset
         featurewise_center=False,
-		# set each sample mean to 0
+	# set each sample mean to 0
         samplewise_center=False,
-		# divide inputs by std of the dataset
+	# divide inputs by std of the dataset
         featurewise_std_normalization=False,
-		# divide each input by its std
+	# divide each input by its std
         samplewise_std_normalization=False,
-		# apply ZCA whitening
+	# apply ZCA whitening
         zca_whitening=False,
-		# epsilon for ZCA whitening
+	# epsilon for ZCA whitening
         zca_epsilon=1e-06,
-		# randomly rotate images in the range (degrees, 0 to 180)
+	# randomly rotate images in the range (degrees, 0 to 180)
         rotation_range=0,
         # randomly shift images horizontally (fraction of total width)
         width_shift_range=0.1,
         # randomly shift images vertically (fraction of total height)
         height_shift_range=0.1,
-		# set range for random shear
+	# set range for random shear
         shear_range=0.,
-		# set range for random zoom
+	# set range for random zoom
         zoom_range=0.,
-		# set range for random channel shifts
+	# set range for random channel shifts
         channel_shift_range=0.,
         # set mode for filling points outside the input boundaries
         fill_mode='nearest',
-		# value used for fill_mode = "constant"
+	# value used for fill_mode = "constant"
         cval=0.,
-		# randomly flip images
+	# randomly flip images
         horizontal_flip=True,
-		# randomly flip images
+	# randomly flip images
         vertical_flip=False,
         # set rescaling factor (applied before any other transformation)
         rescale=None,
