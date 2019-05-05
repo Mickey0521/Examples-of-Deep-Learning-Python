@@ -6,11 +6,40 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://mickey0521.github.io/Examples-of-Deep-Learning-Python/</loc>
-  <lastmod>2019-05-04T08:29:39+00:00</lastmod>
+  <lastmod>2019-05-04T15:39:01+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
-
+<url>
+  <loc>https://github.com/Mickey0521/Examples-of-Deep-Learning-Python</loc>
+  <lastmod>2019-05-04T15:39:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mickey0521/Examples-of-Deep-Learning-Python/blob/master/Keras_CIFAR-10_CNN.py</loc>
+  <lastmod>2019-05-04T15:39:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mickey0521/Examples-of-Deep-Learning-Python/blob/master/Keras_Addition_RNN.py</loc>
+  <lastmod>2019-05-04T15:39:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mickey0521/Examples-of-Deep-Learning-Python/blob/master/Keras_IMDB_LSTM.py</loc>
+  <lastmod>2019-05-04T15:39:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mickey0521/Examples-of-Deep-Learning-Python/blob/master/README.md</loc>
+  <lastmod>2019-05-04T15:39:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickey0521.github.io/</loc>
+  <lastmod>2019-05-04T15:39:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
