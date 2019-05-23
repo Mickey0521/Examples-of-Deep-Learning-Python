@@ -16,3 +16,7 @@ Example 3
 
   (source link: https://github.com/keras-team/keras/blob/master/examples/imdb_lstm.py)
   
+Example 4
+- [Pretrained Word Embeddings (Keras with GloVe)](https://github.com/Mickey0521/Examples-of-Deep-Learning-Python/blob/master/Keras_Pretrained_Word_Embeddings_GloVe.py)
+
+  (source link: https://github.com/keras-team/keras/blob/master/examples/pretrained_word_embeddings.py)
